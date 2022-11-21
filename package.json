@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-log",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosCardenas94/random-str-msg-log.git"
+  },
+  "keywords": [],
+  "author": "Carlos Cardenas <carloscardenas1994@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosCardenas94/random-str-msg-log/issues"
+  },
+  "homepage": "https://github.com/CarlosCardenas94/random-str-msg-log#readme",
+  "bin": {
+    "random-str-msg-log": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
